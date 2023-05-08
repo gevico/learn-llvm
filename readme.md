@@ -5,3 +5,6 @@
 2. 或者从实际业务出发，这样更容易获得正反馈;
 3. 其实耐心很重要，放平心态，慢慢来，比较快。
 
+## 说明
+
+该项目主要在 [gitee](https://gitee.com/gevico/learn-llvm) 上更新, [github](https://github.com/gevico/learn-llvm) 作为备份仓库，定期同步。

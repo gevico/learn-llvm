@@ -1,3 +1,7 @@
+# step 0：声明
+
+在知乎上看到一篇很不错的 cmake 文章，所以就不自己写了，这里直接引用了。作者为知乎号主「程序员阿德」，[点击我访问原文](https://zhuanlan.zhihu.com/p/500002865)
+
 # step 1：构建最小项目
 
 最基本的项目是将一个源代码文件生成可执行文件。对于这么简单的项目，只需要一个三行的 CMakeLists.txt 文件即可，这是本篇教程的起点。在 step1 目录中创建一个 CMakeLists.txt 文件，如下所示：
@@ -524,7 +528,3 @@ MathFunctions/
 其中 `Makefile` 是 cmake 根据 `MathFunctions` 目录下的 CMakeLists.txt 生成的构建文件。
 
 `libMathFunctions.a` 则是 `MathFunctions` 静态链接库，可执行文件会通过这个库调用 mysqrt 函数。
-
-# 声明
-
-本文作者为知乎号主「程序员阿德」，[点击我访问原文](https://zhuanlan.zhihu.com/p/500002865)

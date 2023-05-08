@@ -7,4 +7,4 @@
 
 ## 说明
 
-该项目主要在 [gitee](https://gitee.com/gevico/learn-llvm) 上更新, [github](https://github.com/gevico/learn-llvm) 作为备份仓库，定期同步。
+该项目主要在 [Gitee](https://gitee.com/gevico/learn-llvm) 上更新, [Github](https://github.com/gevico/learn-llvm) 作为备份仓库，定期同步。
